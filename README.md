@@ -42,4 +42,4 @@ Para verificar el frontend: `npm run build` dentro de `client`.
 
 Las rutas `/api/productos` usan `Authorization: Bearer <token>` y permiten GET, POST, PUT y DELETE.
 
-Repositorio: https://github.com/Fallen-bit-worst/AiPixel-PA3-FullStack
+Repositorio: https://github.com/Fallen-bit-worst/4059_Suarez_Moncada_Diego
